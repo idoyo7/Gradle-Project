@@ -1,0 +1,17 @@
+kr/yejun/board/BoardApplication.java
+ kr.yejun.board.BoardApplication
+kr/yejun/board/domain/entity/File.java
+ kr.yejun.board.domain.entity.File
+ kr.yejun.board.domain.entity.File$FileBuilder
+kr/yejun/board/controller/BoardController.java
+ kr.yejun.board.controller.BoardController
+kr/yejun/board/service/BoardService.java
+ kr.yejun.board.service.BoardService
+kr/yejun/board/domain/entity/Board.java
+ kr.yejun.board.domain.entity.Board
+ kr.yejun.board.domain.entity.Board$BoardBuilder
+kr/yejun/board/domain/repository/BoardRepository.java
+ kr.yejun.board.domain.repository.BoardRepository
+kr/yejun/board/dto/BoardDto.java
+ kr.yejun.board.dto.BoardDto
+ kr.yejun.board.dto.BoardDto$BoardDtoBuilder

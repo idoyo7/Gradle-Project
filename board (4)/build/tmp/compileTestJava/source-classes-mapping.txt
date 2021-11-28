@@ -1,0 +1,2 @@
+kr/yejun/board/BoardApplicationTests.java
+ kr.yejun.board.BoardApplicationTests
